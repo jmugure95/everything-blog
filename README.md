@@ -6,6 +6,6 @@ Understand the whole development process of a django website. It is actually rea
 ## Requirements
 - Django
 - SqLite
--Curious mind
+- Curious mind
 
 ### CODE ON
